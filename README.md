@@ -20,3 +20,5 @@ Average household income data was found in every Census tract for low parental i
 
 ## Results
 ![alt text](https://github.com/vchen19/baltimore-compared-to-bellevue-income-mobility/blob/main/income_distribution.png "Income Distribution")
+![alt text](https://github.com/vchen19/baltimore-compared-to-bellevue-income-mobility/blob/main/income_distribution.png "Income Distribution")
+
