@@ -19,4 +19,4 @@ Data was retrieved from [The Opportunity Atlas](https://www.opportunityatlas.org
 Average household income data was found in every Census tract for low parental income (bottom 25%) by The Opportunity Atlas. The datasheet was sorted by tract and by city in order to isolate the tracts in Bellevue and in Baltimore. Using nested IF statements, the incomes of each tract were assigned to income quartiles and income percentiles in tens (10th percentile, 20th, etc.)  based on this data. The same procedure was performed on the entire dataset, for all tracts in the United States. Using COUNTIF statements, the number of tracts in each quartile and bracket were found for each city and for the entire dataset. The counts were turned into percentages of the total number of tracts within that city. The same procedure was performed on the entire dataset. These percentages of number of tracts that fell into buckets of tens of percentiles were plotted for Baltimore, Bellevue, and for the entire United States. 
 
 ## Results
-
+![alt text](https://github.com/vchen19/baltimore-compared-to-bellevue-income-mobility/blob/main/income_distribution.png "Income Distribution")
