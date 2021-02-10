@@ -20,5 +20,14 @@ Average household income data was found in every Census tract for low parental i
 
 ## Results
 ![alt text](https://github.com/vchen19/baltimore-compared-to-bellevue-income-mobility/blob/main/income_distribution.png "Income Distribution")
-![alt text](https://github.com/vchen19/baltimore-compared-to-bellevue-income-mobility/blob/main/income_distribution.png "Income Distribution")
+![alt text](https://github.com/vchen19/baltimore-compared-to-bellevue-income-mobility/blob/main/income_distribution_table_quartiles.png "Table Income Distribution in Quartiles")
+
+From the data, we can see that in all areas of Bellevue, children whose parents had income in the bottom 25th percentile make on average a quartile higher, since the average incomes for this group of people in those areas all fall in the 2nd quartile. In Baltimore, by contrast, this is only true for about 28% of the Census tracts, with 72% of Census tracts having an average income that is also in the bottom 25th percentile. 45.8% of all tracts in the United States are able to have average household incomes a quartile above their parents. A similarity between Baltimore and Bellevue is that neither had tracts with average household incomes above the 50% percentile. This is perhaps indicative of the power low parental income has on a child. Despite growing up in two vastly different cities, two children from similar economic backgrounds will not have drastically different fates.
+
+## Analysis
+
+These two examples are an interesting example of disparities in social mobility in cities. In Bellevue, it is likely that you will be able to make more than your parents, and in Baltimore, it is unlikely. This data indicates that factors outside of one’s control, such as the neighborhood one grew up in, can fairly significantly determine one’s socioeconomic destiny. This challenges our traditional beliefs around the American Dream and whether or not hard work and hard work alone is enough to improve your life.
+
+These signs point to the fact that social mobility is much less likely in Baltimore than it is in Bellevue. This has interesting implications for institutional policy. Because education is a primary means of social advancement in this country, initiatives to improve education outcomes are necessary to improve social mobility. For example, the [Baltimore Scholars Program](https://apply.jhu.edu/baltimore-scholars-program/#:~:text=The%20Johns%20Hopkins%20University%20is,%24150%2C000%20and%20have%20typical%20assets.), gives generous tuition assistance to Baltimore City High School students that are accepted into Johns Hopkins, helping to facilitate social mobility through academic achievement. A program like this is much more necessary in Baltimore than it is in Bellevue, where no such program exists.
+
 
