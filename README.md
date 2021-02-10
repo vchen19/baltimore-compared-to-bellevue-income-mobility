@@ -12,4 +12,4 @@ How likely is it that a child whose parents come from the bottom 25% of income a
 
 ## Data Sources
 
-Data was retrieved from [The Opportunity Atlas](https://www.opportunityatlas.org/), a data science project that uses Census data to evaluate various metrics of social mobility. 
+Data was retrieved from [The Opportunity Atlas](https://www.opportunityatlas.org/), a data science project that uses Census data to evaluate various metrics of social mobility. [The specific dataset used for this analysis](https://github.com/vchen19/baltimore-compared-to-bellevue-income-mobility/blob/main/all_tract_household_income_low_parental_income.csv) consisted of average household income for those with low parental income (in the bottom 25%) for all Census tracts in the United States.
